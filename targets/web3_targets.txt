@@ -1,0 +1,66 @@
+# Web3/Crypto Bug Bounty Targets
+# These platforms pay in crypto and have HUGE bounties
+
+# Immunefi - https://immunefi.com/
+*.immunefi.com
+aave.com
+compound.finance
+uniswap.org
+makerdao.com
+curve.fi
+balancer.fi
+lido.fi
+rocketpool.net
+synthetix.io
+yearn.finance
+sushi.com
+pancakeswap.finance
+opensea.io
+blur.io
+
+# Code4rena - https://code4rena.com/
+*.code4rena.com
+arbitrum.io
+optimism.io
+polygon.technology
+avalabs.org
+near.org
+solana.com
+cosmos.network
+
+# Sherlock - https://app.sherlock.xyz/
+*.sherlock.xyz
+euler.finance
+notional.finance
+liquity.org
+reflexer.finance
+alchemix.fi
+
+# Solana Ecosystem (Superteam):
+solana.com
+*.solana.com
+jup.ag
+raydium.io
+orca.so
+marinade.finance
+phantom.app
+magic-eden.io
+tensor.trade
+
+# Ethereum Ecosystem:
+ethereum.org
+ens.domains
+metamask.io
+walletconnect.com
+infura.io
+alchemy.com
+quicknode.com
+
+# CEX/DEX:
+binance.com
+coinbase.com
+kraken.com
+kucoin.com
+gate.io
+bybit.com
+okx.com

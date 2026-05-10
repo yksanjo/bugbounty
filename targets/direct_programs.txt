@@ -1,0 +1,73 @@
+# Direct Programs (No Platform Required)
+# These companies run their own bug bounty programs
+
+# Google VRP - https://bughunters.google.com/
+google.com
+*.google.com
+youtube.com
+android.com
+chrome.com
+blogger.com
+waze.com
+fitbit.com
+
+# Microsoft MSRC - https://msrc.microsoft.com/
+microsoft.com
+*.microsoft.com
+azure.com
+office.com
+outlook.com
+xbox.com
+linkedin.com
+github.com
+nuget.org
+
+# Apple Security - https://security.apple.com/
+apple.com
+*.apple.com
+icloud.com
+itunes.com
+appleid.apple.com
+
+# Meta Bug Bounty - https://www.facebook.com/whitehat/
+facebook.com
+*.facebook.com
+instagram.com
+*.instagram.com
+whatsapp.com
+*.whatsapp.com
+oculus.com
+threads.net
+
+# Mozilla - https://www.mozilla.org/security/bug-bounty/
+mozilla.org
+*.mozilla.org
+firefox.com
+bugzilla.mozilla.org
+
+# U.S. Government VDPs (Reputation Building)
+*.mil
+*.dod.mil
+*.army.mil
+*.navy.mil
+*.airforce.mil
+*.usa.gov
+*.gsa.gov
+
+# Other Direct Programs:
+uber.com
+lyft.com
+airbnb.com
+shopify.com
+stripe.com
+snapchat.com
+dropbox.com
+twitter.com
+x.com
+netflix.com
+tesla.com
+paypal.com
+square.com
+rockstargames.com
+epicgames.com
+valvesoftware.com

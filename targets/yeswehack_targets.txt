@@ -1,0 +1,30 @@
+# YesWeHack Targets - EU/APAC Platform
+# Register: https://yeswehack.com/sign-up
+
+# Open Programs:
+*.yeswehack.com
+*.ywh.com
+backmarket.com
+bequiet.com
+bricoprive.com
+cdiscount.com
+doctolib.com
+fnac.com
+glovo.com
+goojje.com
+kptncook.com
+larousse.fr
+leboncoin.fr
+manomano.com
+mirakl.com
+ovh.com
+pluzz.fr
+rakuten.com
+showmax.com
+svt.se
+trainline.com
+ubisoft.com
+veepee.com
+vinted.fr
+voyages-sncf.com
+zdnet.com

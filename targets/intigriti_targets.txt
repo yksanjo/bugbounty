@@ -1,0 +1,22 @@
+# Intigriti Programs - European Platform
+# Register: https://account.intigriti.com/account/register
+
+# Open Programs on Intigriti:
+*.intigriti.com
+tomtom.com
+bol.com
+decathlon.com
+eurostar.com
+leaseweb.com
+bpost.be
+kbc.be
+prosiebensat1.com
+rtl.com
+sanoma.com
+tomtom.com
+vinted.com
+zalando.com
+
+# Government/EU Programs:
+*.europa.eu
+*.ec.europa.eu

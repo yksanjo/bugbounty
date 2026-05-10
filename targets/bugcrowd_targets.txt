@@ -1,0 +1,35 @@
+# Bugcrowd Programs - All Scannable Targets
+# Register: https://bugcrowd.com/join
+
+# Open to ALL Hackers (No Invite):
+opera.com
+netflix.com
+tesla.com
+indeed.com
+dropbox.com
+paypal.com
+mastercard.com
+
+# Bugcrowd Platform Programs:
+*.bugcrowd.com
+crowdsignal.com
+intensedebate.com
+gravatar.com
+woocommerce.com
+
+# Additional Bugcrowd Targets:
+jetblue.com
+adobe.com
+citrix.com
+dell.com
+ford.com
+hp.com
+intel.com
+lexmark.com
+logitech.com
+nokia.com
+philips.com
+sap.com
+seagate.com
+usps.com
+westernunion.com

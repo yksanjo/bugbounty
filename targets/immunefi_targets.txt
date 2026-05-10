@@ -1,0 +1,64 @@
+# Immunefi Bug Bounty Targets
+# Focus: Web3, DeFi, Smart Contracts, Infrastructure
+
+# === TOP TIER (Highest Payouts $1M-$10M) ===
+aave.com
+compound.finance
+makerdao.com
+uniswap.org
+curve.fi
+lido.fi
+rocketpool.net
+synthetix.io
+
+# === MID TIER ($100K-$1M) ===
+balancer.fi
+yearn.finance
+sushi.com
+pancakeswap.finance
+opensea.io
+blur.io
+arbitrum.io
+optimism.io
+polygon.technology
+avalabs.org
+near.org
+solana.com
+cosmos.network
+ens.domains
+
+# === WEB3 INFRASTRUCTURE ($50K-$500K) ===
+metamask.io
+walletconnect.com
+infura.io
+alchemy.com
+quicknode.com
+phantom.app
+jup.ag
+raydium.io
+orca.so
+marinade.finance
+magic-eden.io
+tensor.trade
+
+# === CEX/EXCHANGES ($50K-$500K) ===
+binance.com
+coinbase.com
+kraken.com
+kucoin.com
+gate.io
+bybit.com
+okx.com
+
+# === DEFI PROTOCOLS ($10K-$100K) ===
+euler.finance
+notional.finance
+liquity.org
+reflexer.finance
+alchemix.fi
+
+# === IMMUNEFI PLATFORM ===
+immunefi.com
+code4rena.com
+sherlock.xyz
+hackenproof.com
